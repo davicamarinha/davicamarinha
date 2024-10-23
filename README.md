@@ -1,5 +1,7 @@
 [![MasterHead](https://github.com/davicamarinha/davicamarinha/blob/main/header.png)](https://github.com/davicamarinha)
 
+Hello, I'm Davi, a fullstack developer living in Brazil who works on both web and mobile. I am a curious, determined and communicative person. I always try to stay up to date with development technologies.
+
 <!--
 **davicamarinha/davicamarinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
